@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23993" started-at="2019-01-12T09:22:31Z" finished-at="2019-01-12T09:22:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23993" started-at="2019-01-12T09:22:31Z" finished-at="2019-01-12T09:22:55Z">
+      <class name="com.qa.test.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.test.testcases.LoginPageTest@3e6fa38a]" name="setup" is-config="true" duration-ms="8423" started-at="2019-01-12T09:22:31Z" finished-at="2019-01-12T09:22:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateLoginPageTitle()[pri:1, instance:com.qa.test.testcases.LoginPageTest@3e6fa38a]" name="validateLoginPageTitle" duration-ms="57" started-at="2019-01-12T09:22:40Z" finished-at="2019-01-12T09:22:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPageTitle -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:com.qa.test.testcases.LoginPageTest@3e6fa38a]" name="browserClose" is-config="true" duration-ms="2151" started-at="2019-01-12T09:22:40Z" finished-at="2019-01-12T09:22:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.test.testcases.LoginPageTest@3e6fa38a]" name="setup" is-config="true" duration-ms="5586" started-at="2019-01-12T09:22:42Z" finished-at="2019-01-12T09:22:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateLogin()[pri:2, instance:com.qa.test.testcases.LoginPageTest@3e6fa38a]" name="validateLogin" duration-ms="5555" started-at="2019-01-12T09:22:48Z" finished-at="2019-01-12T09:22:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogin -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:com.qa.test.testcases.LoginPageTest@3e6fa38a]" name="browserClose" is-config="true" duration-ms="2138" started-at="2019-01-12T09:22:53Z" finished-at="2019-01-12T09:22:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- com.qa.test.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
